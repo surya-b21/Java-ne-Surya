@@ -1,0 +1,10 @@
+package OOP;
+
+public class KelasDriver {
+
+	public static void main(String[] args) {
+		KelasObjek obj = new KelasObjek(3,4);
+		System.out.print("Luasnya adalah : "+obj);
+	}
+
+}

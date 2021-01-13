@@ -1,0 +1,16 @@
+package Praktikum;
+
+public class Kriptografi {
+
+	public static void main(String[] args) {
+		String [][] kotak = new String  [5][9];
+		for (int i = 0; i<5; i++) {
+			for (int j = 0; j<9; j++) {
+				if (i==0)
+					System.out.print("*");
+			}
+		}
+
+	}
+
+}

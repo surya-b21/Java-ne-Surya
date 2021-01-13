@@ -1,0 +1,22 @@
+package Praktikum;
+
+import java.util.Scanner;
+
+public class Kriptografi {
+
+	public static void main (String [] args) {
+		Scanner in = new Scanner(System.in);
+		char [] arr = new char [5];
+		System.out.println("Masukkan kata : ");
+		String kata = in.next();
+		int xx = 0;
+		
+		for (int i = 0; i<arr.length; i++) {
+			arr[i] = kata.charAt(i);
+		}
+		for (int i = 0; i<arr.length; i++) {
+			System.out.println(arr[i]);
+		}
+	}
+
+}

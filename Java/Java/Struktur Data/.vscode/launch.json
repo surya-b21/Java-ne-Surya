@@ -1,0 +1,71 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoShellSort",
+            "request": "launch",
+            "mainClass": "Sorting.DemoShellSort",
+            "projectName": "Struktur Data"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainShellSort",
+            "request": "launch",
+            "mainClass": "Sorting.MainShellSort",
+            "projectName": "Struktur Data"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainClass",
+            "request": "launch",
+            "mainClass": "Sorting.MainClass",
+            "projectName": "Struktur Data"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainDoubleInsertionDemo",
+            "request": "launch",
+            "mainClass": "Sorting.MainDoubleInsertionDemo",
+            "projectName": "Struktur Data"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainDescendingInsertionDemo",
+            "request": "launch",
+            "mainClass": "Sorting.MainDescendingInsertionDemo",
+            "projectName": "Struktur Data"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - main",
+            "request": "launch",
+            "mainClass": "Sorting.main",
+            "projectName": "Struktur Data"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Sorting.Main",
+            "projectName": "Struktur Data"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainInsertionDemo",
+            "request": "launch",
+            "mainClass": "Sorting.MainInsertionDemo",
+            "projectName": "Struktur Data"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Array",
+            "request": "launch",
+            "mainClass": "Praktikum.Array",
+            "projectName": "Struktur Data"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+package Praktikum;
+
+import java.util.Scanner;
+
+public class Kriptografi {
+
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		String [][] kotak = new String  [5][9];
+		System.out.print("Tinggi segitiga : ");
+		int tinggi = in.nextInt();
+		for (int i = 1; i<=tinggi; i++) {
+			for (int j = 0; j<(i*2)-1; j++) {
+					System.out.print("*");
+			}
+		}
+
+	}
+
+}

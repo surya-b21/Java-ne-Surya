@@ -1,0 +1,14 @@
+package OOP;
+
+public class KelasObjek {
+	private String Warna;
+	
+	public void setWarna (String Warna) {
+		this.Warna = Warna;
+	}
+	public String getWarna() {
+		return Warna;
+	}
+	
+	
+}
